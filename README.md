@@ -52,8 +52,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyamarodrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="toyamarodrigo Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=toyamarodrigo&show_icons=true&hide_border=true&hide=prs" />
-
 [website]: https://toyamarodrigo.com
 [mail]: mailto:toyamarodrigo@gmail.com
 [instagram]: https://instagram.com/rt.codes
