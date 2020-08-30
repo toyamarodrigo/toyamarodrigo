@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on a [Youtube Downloader][dwl]! and many other projects 😁
+- 🔭 I’m currently working on a [Youtube Downloader][dwl]! and many other projects you can see below 😁
 - 🤓 I'm also currently learning ReactJS & NodeJS.
 - 🥅 2020 Goals: Contribute more to Open Source projects and Look for a Job.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
