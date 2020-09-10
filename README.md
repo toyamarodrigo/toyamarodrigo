@@ -52,6 +52,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyamarodrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=todo-app)](https://github.com/toyamarodrigo/todo-app)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=peladobot)](https://github.com/toyamarodrigo/peladobot)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=short-url)](https://github.com/toyamarodrigo/short-url)
+
 [website]: https://toyamarodrigo.com
 [mail]: mailto:toyamarodrigo@gmail.com
 [instagram]: https://instagram.com/rt.codes
