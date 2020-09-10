@@ -52,14 +52,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyamarodrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Working now:
+
 <a href="https://github.com/toyamarodrigo/todo-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=todo-app" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=todo-app&theme=radical" />
+</a>
 <a href="https://github.com/toyamarodrigo/peladobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=peladobot" />
-</a>    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=peladobot&theme=tokyonight" />
+</a>
 <a href="https://github.com/toyamarodrigo/short-url">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=short-url" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=short-url&theme=tokyonight" />
+</a>
+<a href="https://github.com/toyamarodrigo/hacker-ranks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=hacker-ranks&theme=radical" />
 </a>
 
 [website]: https://toyamarodrigo.com
