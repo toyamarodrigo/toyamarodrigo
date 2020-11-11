@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and Look for a Job.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
 
-<br>
+---
 
 ### Connect with me:
 
@@ -17,7 +17,7 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
-<br/>
+---
 
 ### Languages and Tools:
 
@@ -35,9 +35,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-<br />
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyamarodrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
