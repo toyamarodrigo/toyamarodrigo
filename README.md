@@ -56,13 +56,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=react-covid19&theme=radical" />
 </a>
 <a href="https://github.com/toyamarodrigo/vscode-settings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=vscode-settings&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=vscode-settings&theme=radical" />
 </a>
 <a href="https://github.com/toyamarodrigo/tp-vangu-landing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=tp-vangu-landing&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=tp-vangu-landing&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/codekatas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=codekatas&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=codekatas&theme=tokyonight" />
 </a>
 
 
