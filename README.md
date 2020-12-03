@@ -41,20 +41,30 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyamarodrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Working now:
+### Projects:
 
-<a href="https://github.com/toyamarodrigo/todo-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=todo-app&theme=radical" />
+<a href="https://github.com/toyamarodrigo/springboot-invoice-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=springboot-invoice-system&theme=radical" />
 </a>
-<a href="https://github.com/toyamarodrigo/peladobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=peladobot&theme=tokyonight" />
+<a href="https://github.com/toyamarodrigo/dwb-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dwb-app&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/short-url">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=short-url&theme=tokyonight" />
+<a href="https://github.com/toyamarodrigo/portfolio-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=portfolio-v2&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/hacker-ranks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=hacker-ranks&theme=radical" />
+<a href="https://github.com/toyamarodrigo/react-covid19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=react-covid19&theme=radical" />
 </a>
+<a href="https://github.com/toyamarodrigo/vscode-settings">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=vscode-settings&theme=tokyonight" />
+</a>
+<a href="https://github.com/toyamarodrigo/tp-vangu-landing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=tp-vangu-landing&theme=radical" />
+</a>
+<a href="https://github.com/toyamarodrigo/codekatas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=codekatas&theme=radical" />
+</a>
+
 
 [website]: https://toyamarodrigo.com
 [mail]: mailto:toyamarodrigo@gmail.com
