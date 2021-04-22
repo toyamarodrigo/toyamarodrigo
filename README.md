@@ -8,6 +8,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and Look for a Job.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
 
+![](https://www.codewars.com/users/toyamarodrigo/badges/micro)
+
 ---
 
 ### Connect with me:
