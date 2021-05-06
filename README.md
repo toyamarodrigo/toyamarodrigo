@@ -64,7 +64,7 @@
 
 
 [website]: https://toyamarodrigo.com
-[mail]: mailto:toyamarodrigo@gmail.com
+[mail]: mailto:toyama.rodrigo@gmail.com
 [instagram]: https://instagram.com/rt.codes
 [linkedin]: https://www.linkedin.com/in/rodrigo-toyama-1861b1154/
 [dwl]: https://github.com/toyamarodrigo/dwlyoutube
