@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently looking for a job, and in the meantime I'm doing a lot of personal projects 😁.
-- 🤓 I'm also currently learning ReactJS & NodeJS.
+- 🤓 Learning ReactJS & NodeJS.
 - 🥰 Actually falling in love with ChakraUI
 - 🥅 2021 Goals: Contribute more to Open Source projects and have a Developer job.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
