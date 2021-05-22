@@ -3,9 +3,10 @@
 
 <br>
 
-- 🔭 I’m currently working on a static website for a technology solutions company using ReactJS, GatsbyJS, NextJS and doing some side projects you can see below.
+- 🔭 I’m currently looking for a job, and in the meantime I'm doing a lot of personal projects 😁.
 - 🤓 I'm also currently learning ReactJS & NodeJS.
-- 🥅 2020 Goals: Contribute more to Open Source projects and have a Developer job.
+- 🥰 Actually falling in love with ChakraUI
+- 🥅 2021 Goals: Contribute more to Open Source projects and have a Developer job.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
 
 ![](https://www.codewars.com/users/toyamarodrigo/badges/micro)
