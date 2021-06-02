@@ -44,14 +44,18 @@
 
 ### Projects:
 
+
+<a href="https://github.com/toyamarodrigo/nextjs-ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=nextjs-ecommerce&theme=tokyonight" />
+</a>
 <a href="https://github.com/toyamarodrigo/springboot-invoice-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=springboot-invoice-system&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/dwb-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dwb-app&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/portfolio-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=portfolio-v2&theme=tokyonight" />
+<a href="https://github.com/toyamarodrigo/portfolio-v3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=portfolio-v3&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/react-covid19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=react-covid19&theme=tokyonight" />
