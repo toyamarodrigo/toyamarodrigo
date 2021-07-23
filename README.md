@@ -3,10 +3,10 @@
 
 <br>
 
-- 🔭 I’m currently looking for a job, and in the meantime I'm doing a lot of personal projects 😁.
+- 🔭 I’m currently working for Urbetrack, and in the meantime I'm doing a lot of personal projects 😁.
 - 🤓 Learning ReactJS Web/Native & NodeJS.
 - 🥰 Actually falling in love with ChakraUI
-- 🥅 2021 Goals: Contribute more to Open Source projects and have a Developer job.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
 
 ![](https://www.codewars.com/users/toyamarodrigo/badges/micro)
@@ -66,7 +66,7 @@
 
 
 [website]: https://toyamarodrigo.com
-[mail]: mailto:toyama.rodrigo@gmail.com
-[instagram]: https://instagram.com/rt.codes
-[linkedin]: https://www.linkedin.com/in/rodrigo-toyama-1861b1154/
+[mail]: https://mail.toyamarodrigo.com
+[instagram]: https://instagram.toyamarodrigo.com
+[linkedin]: https://linkedin.toyamarodrigo.com
 [dwl]: https://github.com/toyamarodrigo/dwlyoutube
