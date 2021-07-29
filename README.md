@@ -4,8 +4,8 @@
 <br>
 
 - 🔭 I’m currently working at Urbetrack, and doing a lot of personal projects too 😁.
-- 🤓 Learning ReactJS Web/Native & NodeJS.
-- 🥰 Actually falling in love with ChakraUI
+- 🤓 Learning ReactJS Web/Native a bit of NodeJS and Typescript!
+- 🥰 In love with ChakraUI
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
 
