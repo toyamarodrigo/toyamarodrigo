@@ -41,29 +41,27 @@
 
 ### Projects:
 
-
-<a href="https://github.com/toyamarodrigo/nextjs-ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=nextjs-ecommerce&theme=tokyonight" />
-</a>
 <a href="https://github.com/toyamarodrigo/springboot-invoice-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=springboot-invoice-system&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/dwb-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dwb-app&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/portfolio-v3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=portfolio-v3&theme=tokyonight" />
+<a href="https://github.com/toyamarodrigo/nextjs-ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=nextjs-ecommerce&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/react-covid19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=react-covid19&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/tp-vangu-landing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=tp-vangu-landing&theme=tokyonight" />
+<a href="https://github.com/toyamarodrigo/portfolio-v3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=portfolio-v3&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/codekatas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=codekatas&theme=tokyonight" />
+<a href="https://github.com/toyamarodrigo/final-app-moviles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=final-app-moviles&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/toyamarodrigo/rn-movieapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=rn-movieapp&theme=tokyonight" />
+</a>
 
 [website]: https://toyamarodrigo.com
 [mail]: https://mail.toyamarodrigo.com
