@@ -47,6 +47,9 @@
 <a href="https://github.com/toyamarodrigo/dwb-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dwb-app&theme=tokyonight" />
 </a>
+<a href="https://github.com/toyamarodrigo/falling-words-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dwb-app&theme=tokyonight" />
+</a>
 <a href="https://github.com/toyamarodrigo/nextjs-ecommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=nextjs-ecommerce&theme=tokyonight" />
 </a>
