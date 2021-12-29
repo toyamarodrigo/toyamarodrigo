@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at Urbetrack, and doing a lot of personal projects too 😁.
 - 🤓 Learning ReactJS Web/Native a bit of NodeJS and Typescript!
 - 🥰 In love with ChakraUI
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
 
 ![](https://www.codewars.com/users/toyamarodrigo/badges/micro)
