@@ -1,4 +1,4 @@
-## Hi, I'm Rodri - a Student and Web Developer 👋
+## Hi, I'm Rodri - Student and Web Developer 👋
 
 
 <br>
