@@ -50,8 +50,8 @@
 <a href="https://github.com/toyamarodrigo/falling-words-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=falling-words-game&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/nextjs-ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=nextjs-ecommerce&theme=tokyonight" />
+<a href="https://github.com/toyamarodrigo/test-polyline-heremaps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=test-polyline-heremaps&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/react-covid19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=react-covid19&theme=tokyonight" />
@@ -64,6 +64,12 @@
 </a>
 <a href="https://github.com/toyamarodrigo/rn-movieapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=rn-movieapp&theme=tokyonight" />
+</a>
+<a href="https://github.com/toyamarodrigo/dv-ds-20212c-g1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dv-ds-20212c-g1&theme=tokyonight" />
+</a>
+<a href="https://github.com/toyamarodrigo/dv-ds-20212c-g1-front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dv-ds-20212c-g1-front&theme=tokyonight" />
 </a>
 
 [website]: https://toyamarodrigo.com
