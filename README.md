@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working at Urbetrack, and doing a lot of personal projects too 😁.
+- 🔭 I’m currently working and doing a lot of personal projects too 😁.
 - 🤓 Learning ReactJS Web/Native a bit of NodeJS and Typescript!
 - 🥰 In love with ChakraUI
 - 🥅 2022 Goals: Contribute more to Open Source projects.
