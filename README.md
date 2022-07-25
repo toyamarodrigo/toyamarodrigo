@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working and doing a lot of personal projects too 😁.
-- 🤓 Learning ReactJS Web/Native & Typescript!
+- 🤓 ReactJS Web/Native & Typescript <3
 - 🥰 In love with ChakraUI
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
