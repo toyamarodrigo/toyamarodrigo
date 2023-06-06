@@ -6,7 +6,7 @@
 - 🔭 I’m currently working and doing a lot of personal projects too 😁.
 - 🤓 ReactJS Web/Native & Typescript <3
 - 🥰 In love with ChakraUI
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play guitar and videogames with friends.
 
 ![](https://www.codewars.com/users/toyamarodrigo/badges/micro)
@@ -43,17 +43,11 @@
 <a href="https://github.com/toyamarodrigo/springboot-invoice-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=springboot-invoice-system&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/dwb-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dwb-app&theme=tokyonight" />
-</a>
 <a href="https://github.com/toyamarodrigo/falling-words-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=falling-words-game&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/test-polyline-heremaps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=test-polyline-heremaps&theme=tokyonight" />
-</a>
-<a href="https://github.com/toyamarodrigo/react-covid19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=react-covid19&theme=tokyonight" />
 </a>
 <a href="https://github.com/toyamarodrigo/portfolio-v3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=portfolio-v3&theme=tokyonight" />
@@ -64,12 +58,7 @@
 <a href="https://github.com/toyamarodrigo/rn-movieapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=rn-movieapp&theme=tokyonight" />
 </a>
-<a href="https://github.com/toyamarodrigo/dv-ds-20212c-g1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dv-ds-20212c-g1&theme=tokyonight" />
-</a>
-<a href="https://github.com/toyamarodrigo/dv-ds-20212c-g1-front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=dv-ds-20212c-g1-front&theme=tokyonight" />
-</a>
+
 
 [website]: https://toyamarodrigo.com
 [mail]: https://mail.toyamarodrigo.com
