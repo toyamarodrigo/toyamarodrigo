@@ -34,31 +34,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toyamarodrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toyamarodrigo&show_icons=true&locale=en" alt="toyamarodrigo" /></p>
-
-### Projects:
-
-<a href="https://github.com/toyamarodrigo/springboot-invoice-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=springboot-invoice-system&theme=tokyonight" />
-</a>
-<a href="https://github.com/toyamarodrigo/falling-words-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=falling-words-game&theme=tokyonight" />
-</a>
-<a href="https://github.com/toyamarodrigo/test-polyline-heremaps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=test-polyline-heremaps&theme=tokyonight" />
-</a>
-<a href="https://github.com/toyamarodrigo/portfolio-v3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=portfolio-v3&theme=tokyonight" />
-</a>
-<a href="https://github.com/toyamarodrigo/final-app-moviles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=final-app-moviles&theme=tokyonight" />
-</a>
-<a href="https://github.com/toyamarodrigo/rn-movieapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toyamarodrigo&repo=rn-movieapp&theme=tokyonight" />
-</a>
-
 
 [website]: https://toyamarodrigo.com
 [mail]: https://mail.toyamarodrigo.com
